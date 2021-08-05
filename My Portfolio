@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+        rel="stylesheet"
+        href="styles.css"
+    />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+  </head>
+  <body>
+      <div>
+          <h1>Carlos Palacios(he/him)</h1>
+          <h2>Logistics and Shipping Operations Coordinator</h2>
+          <hr />
+          <p>My <em>Favorite</em> aspect of programming is everything!</p>
+          <img
+            src="">
+            <h3>About Me</h3>
+           <p>
+             <ul>
+               <li>I currently work as a shipping and logisitcs ops coordinator for David Yurman.</li>
+               <li>I love learning new skills to add to my resume.</li>
+               <li>I currently want to become a great software developer.</li>
+               <li>I love my dog all day.</li>
+            </p>
+          <h3>My Projects</h3>
+          <ul>
+              <li>Project Space</li>
+              <li>Project Moon</li>
+              <li>Project Sun</li>
+          </ul>
+          <h3>Contact Me</h3>
+          <p> <em> Phone:</em> 2012012012 </p>
+          <p>Email: <a href="mailto:cjpalacios07@gmail.com"></a>
+          </p>
+        </div>
+    </body>
+</html>
