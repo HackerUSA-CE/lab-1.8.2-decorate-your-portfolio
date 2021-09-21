@@ -1,0 +1,31 @@
+*{text-align: center; background-color: rgb(6, 6, 100);
+cursor: url(https://toppng.com/uploads/preview/cursor-11549398080fd7y2r6evj.png),pointer}
+
+[source]{display: block;
+margin: 0;border-radius: 50%;}
+
+h1,h2,h3{text-align: center;border-style: ridge;
+border-color: purple;
+font: size 10px; font-style: initial; font-family: fantasy;
+font-weight: lighter;}
+
+img{border-style: dashed; border-color: hotpink;border-radius: 50%;}
+
+p{text-align: justify; color: yellow; font-weight: bolder; font-size: 40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.about-me{font-family: cursive;}
+
+.section-font{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+ul li{text-align: justify; color:tomato;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 25px;}
+
+
+#myfav{display:block;
+margin: 0% auto; width: 50%;
+padding-top: 1em; padding-bottom: 1em;
+text-align: center; border-color: rgb(red, green, blue);
+border-style: solid; border-width: 5px;}
+
